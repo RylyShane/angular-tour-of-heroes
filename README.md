@@ -1,3 +1,5 @@
-# angular-ivy-bx3br5
+# angular-tour-of-heroes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-bx3br5)
+Created following the "Tour of Heroes" tutorial @ https://angular.io/tutorial
+
+[Originally created on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-bx3br5)
